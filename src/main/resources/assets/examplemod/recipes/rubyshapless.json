@@ -1,0 +1,26 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "examplemod:ruby"
+    },
+    
+    {
+      "item": "examplemod:ruby"
+    },
+
+    {
+      "item": "minecraft:apple"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "examplemod:ruby_block",
+        "count": 1
+    }
+}
