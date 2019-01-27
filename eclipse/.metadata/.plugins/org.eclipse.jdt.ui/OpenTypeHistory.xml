@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=MDKExample/src\/main\/java&lt;com.zolon.examplemod.proxy{CommonProxy.java[CommonProxy" modifiers="1" timestamp="1547240234565"/>
+<typeInfo handle="=MDKExample/src\/main\/java&lt;com.zolon.examplemod.blocks{BlockBase.java[BlockBase" modifiers="1" timestamp="1547318051843"/>
+<typeInfo handle="=MDKExample/C:\/Users\/spenc\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.12.2-14.23.5.2807\/snapshot\/20171003\/forgeSrc-1.12.2-14.23.5.2807.jar&lt;net.minecraftforge.fml.common(IWorldGenerator.class[IWorldGenerator" modifiers="1537" timestamp="1547173898077"/>
+<typeInfo handle="=MDKExample/C:\/Users\/spenc\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.12.2-14.23.5.2807\/snapshot\/20171003\/forgeSrc-1.12.2-14.23.5.2807.jar&lt;net.minecraftforge.common(WorldWorkerManager$IWorker.class[IWorker" modifiers="1545" timestamp="1547173898077"/>
+<typeInfo handle="=MDKExample/C:\/Users\/spenc\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.12.2-14.23.5.2807\/snapshot\/20171003\/forgeSrc-1.12.2-14.23.5.2807.jar&lt;net.minecraft.item(ItemFood.class[ItemFood" modifiers="33" timestamp="1547173898077"/>
+<typeInfo handle="=MDKExample/C:\/Users\/spenc\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.12.2-14.23.5.2807\/snapshot\/20171003\/forgeSrc-1.12.2-14.23.5.2807.jar&lt;net.minecraftforge.fml.common.network.handshake(IHandshakeState.class[IHandshakeState" modifiers="1537" timestamp="1547173898077"/>
+<typeInfo handle="=MDKExample/src\/main\/java&lt;com.zolon.examplemod.util{IHasModel.java[IHasModel" modifiers="513" timestamp="1547240489820"/>
 </typeInfoHistroy>

@@ -1,6 +1,7 @@
 package com.zolon.examplemod;
 
 import net.minecraft.init.Blocks;
+import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -26,6 +27,9 @@ public class ExampleMod
     public static final String COMMON_PROXY_CLASS = "com.zolon.examplemod.proxy.CommonProxy";
 
     private static Logger logger;
+    
+    @Mod.Instance(ExampleMod.MODID)
+    public static ExampleMod instance;
     
     @SidedProxy(clientSide = CLIENT_PROXY_CLASS, serverSide = COMMON_PROXY_CLASS)
     public static CommonProxy proxy;
